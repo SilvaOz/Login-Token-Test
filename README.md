@@ -1,6 +1,7 @@
 # My Online Diary
 
-![Screenshot](screenshot.png)
+![Screenshot](./client/src/img/Screenshot02.png)
+![Screenshot](./client/src/img/Screenshot01.png)
 
 My Online Diary is a web application that allows you to securely and conveniently record your thoughts, emotions, and experiences online. The application is developed as part of a web development course exercise, using the MERN stack (MongoDB, Express, React, and Node.js).
 
