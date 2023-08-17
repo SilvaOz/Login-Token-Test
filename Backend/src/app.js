@@ -25,9 +25,9 @@ app.use("/api", taksRoutes);
 
 
 
-app.use("/", express.static("./client"));
+app.use("/", express.static("./frontend"));
 
-app.get("/*", (req, res) => res.sendFile("/client/index.html", { root: process.env.PWD }));
+app.get("/*", (req, res) => res.sendFile("/frontend/index.html", { root: process.env.PWD }));
 
 
 // if (process.env.NODE_ENV === "production") {
