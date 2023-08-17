@@ -7,5 +7,5 @@ dotenv.config();
 
 
 connectDB();
-app.listen(process.env.PORT || 5500 )
-console.log('server listening on port', 4000)
+app.listen(process.env.PORT || 5050)
+console.log('server listening on port',4000)
