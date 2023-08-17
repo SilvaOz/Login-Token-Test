@@ -25,21 +25,21 @@ app.use("/api", taksRoutes);
 
 
 
-// app.use("/", express.static("./client"));
+app.use("/", express.static("./client"));
 
-// app.get("/*", (req, res) => res.sendFile("/client/index.html", { root: process.env.PWD }));
+app.get("/*", (req, res) => res.sendFile("/client/index.html", { root: process.env.PWD }));
 
 
-if (process.env.NODE_ENV === "production") {
-  const path = await import("path");
-  app.use(express.static("client/dist"));
+// if (process.env.NODE_ENV === "production") {
+//   const path = await import("path");
+//   app.use(express.static("client/dist"));
 
-  app.get("*", (req, res) => {
-    console.log(path.resolve("client", "dist", "index.html") );
-    res.sendFile(path.resolve("client", "dist", "index.html"));
+//   app.get("*", (req, res) => {
+//     console.log(path.resolve("client", "dist", "index.html") );
+//     res.sendFile(path.resolve("client", "dist", "index.html"));
 
-  });
-}
+//   });
+// }
 
 
 export default app;
