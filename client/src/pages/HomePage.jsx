@@ -38,105 +38,105 @@ function HomePage() {
         >
           <div>
             <img
-              src="../src/img/slide1.jpg"
+              src="/img/slide1.jpg"
               alt="Slide 1"
               className="object-cover h-96 md:h-72 lg:h-96 lg:w-96"
             />
           </div>
           <div>
             <img
-              src="../src/img/slide2.jpg"
+              src="/img/slide2.jpg"
               alt="Slide 2"
               className="object-cover h-96 md:h-72 lg:h-96 lg:w-96"
             />
           </div>
           <div>
             <img
-              src="../src/img/slide3.jpg"
+              src="/img/slide3.jpg"
               alt="Slide 3"
               className="object-cover h-96 md:h-72 lg:h-96 lg:w-96"
             />
           </div>
           <div>
             <img
-              src="../src/img/slide4.jpg"
+              src="/img/slide4.jpg"
               alt="Slide 4"
               className="object-cover h-96 md:h-72 lg:h-96 lg:w-96"
             />
           </div>
           <div>
             <img
-              src="../src/img/slide5.jpg"
+              src="/img/slide5.jpg"
               alt="Slide 5"
               className="object-cover h-96 md:h-72 lg:h-96 lg:w-96"
             />
           </div>
           <div>
             <img
-              src="../src/img/slide6.jpg"
+              src="/img/slide6.jpg"
               alt="Slide 6"
               className="object-cover h-96 md:h-72 lg:h-96 lg:w-96"
             />
           </div>
           <div>
             <img
-              src="../src/img/slide7.jpg"
+              src="/img/slide7.jpg"
               alt="Slide 7"
               className="object-cover h-96 md:h-72 lg:h-96 lg:w-96"
             />
           </div>
           <div>
             <img
-              src="../src/img/slide8.jpg"
+              src="/img/slide8.jpg"
               alt="Slide 8"
               className="object-cover h-96 md:h-72 lg:h-96 lg:w-96"
             />
           </div>
           <div>
             <img
-              src="../src/img/slide9.jpg"
+              src="/img/slide9.jpg"
               alt="Slide 9"
               className="object-cover h-96 md:h-72 lg:h-96 lg:w-96"
             />
           </div>
           <div>
             <img
-              src="../src/img/slide10.jpg"
+              src="/img/slide10.jpg"
               alt="Slide 10"
               className="object-cover h-96 md:h-72 lg:h-96 lg:w-96"
             />
           </div>
           <div>
             <img
-              src="../src/img/slide11.jpg"
+              src="/img/slide11.jpg"
               alt="Slide 11"
               className="object-cover h-96 md:h-72 lg:h-96 lg:w-96"
             />
           </div>
           <div>
             <img
-              src="../src/img/slide12.jpg"
+              src="/img/slide12.jpg"
               alt="Slide 12"
               className="object-cover h-96 md:h-72 lg:h-96 lg:w-96"
             />
           </div>
           <div>
             <img
-              src="../src/img/slide13.jpg"
+              src="/img/slide13.jpg"
               alt="Slide 13"
               className="object-cover h-96 md:h-72 lg:h-96 lg:w-96"
             />
           </div>
           <div>
             <img
-              src="../src/img/slide14.jpg"
+              src="/img/slide14.jpg"
               alt="Slide 14"
               className="object-cover h-96 md:h-72 lg:h-96 lg:w-96"
             />
           </div>
           <div>
             <img
-              src="../src/img/slide15.jpg"
+              src="/img/slide15.jpg"
               alt="Slide 15"
               className="object-cover h-96 md:h-72 lg:h-96 lg:w-96"
             />
